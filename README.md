@@ -1,4 +1,4 @@
-# ⚡ Walmart EV Charging Site — Power BI Dashboard Portfolio
+# ⚡EV Charging Site — Power BI Dashboard Portfolio
 
 > **Role:** Business Intelligence Developer  
 > **Client:** Walmart (Internal Operations)  
