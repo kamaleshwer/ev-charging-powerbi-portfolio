@@ -141,8 +141,6 @@ All pages are cross-filtered using:
 
 ## 👤 About This Project
 
-This dashboard was built as part of an internal data analytics initiative to accelerate Walmart's EV infrastructure expansion. The solution replaced manual status tracking in spreadsheets with a centralized, interactive reporting layer — giving stakeholders real-time visibility from the executive level down to individual store managers.
+This dashboard was built as part of an internal data analytics initiative to accelerate EV infrastructure expansion. The solution replaced manual status tracking in spreadsheets with a centralized, interactive reporting layer — giving stakeholders real-time visibility from the executive level down to individual store managers.
 
----
 
-*Portfolio submission — for interview purposes. Client data has been anonymized/summarized.*
