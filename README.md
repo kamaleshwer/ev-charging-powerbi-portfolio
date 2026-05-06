@@ -1,7 +1,6 @@
 # ⚡EV Charging Site — Power BI Dashboard Portfolio
 
 > **Role:** Business Intelligence Developer  
-> **Client:** Walmart (Internal Operations)  
 > **Tool:** Microsoft Power BI (Live Connection via Teams Excel Sheet)  
 > **Domain:** EV Infrastructure Rollout Tracking
 
